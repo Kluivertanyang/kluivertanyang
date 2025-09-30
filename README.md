@@ -1,9 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20Security&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=50&pause=500&color=00D4FF&center=true&vCenter=true&width=400&height=70&lines=CLOUD+GUY+%E2%98%81%EF%B8%8F" alt="Cloud Guy" />
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%F0%9F%A4%96;DevOps+Engineer+%F0%9F%92%BB;DevSecOps+Engineer+%F0%9F%94%90;Cloud+Security+Specialist+%E2%98%81%EF%B8%8F;Information+Security+Expert+%F0%9F%9B%A1%EF%B8%8F;Kubernetes+Specialist+%E2%98%B8%EF%B8%8F;Infrastructure+Automation+Expert+%F0%9F%9A%80;Cloud+Architecture+Designer+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,10 +23,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **DevOps Projects, CloudProjects, DevSecOps, Cyber / Information Security**
-- 🌱 Proficient with **Docker, Kubernetes, AWS, AZURE, Jenkins, Ansible, LLM, AI, Python, Github Actions, Promethus, Grafana, Hashicorp Vault CI/CD**
-- 💬 Ask me about **DevOps, Cloud, Automation, Cloud Security, DevSecOps**
-- 📫 Reach me: **anyangklu@gmail.com**
+- Currently working on **DevOps Projects, CloudProjects, DevSecOps, Cyber / Information Security**
+- Proficient with **Docker, Kubernetes, AWS, AZURE, Jenkins, Ansible, LLM, AI, Python, Github Actions, Promethus, Grafana, Hashicorp Vault CI/CD**
+- Ask me about **DevOps, Cloud, Automation, Cloud Security, DevSecOps**
+- Reach me: **anyangklu@gmail.com**
 
 ---
 
@@ -41,12 +49,21 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ### Infrastructure as Code
 <p align="left">
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
+
+### DevSecOps & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
 ### Programming Languages
